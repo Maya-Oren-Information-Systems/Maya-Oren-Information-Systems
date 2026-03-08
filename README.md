@@ -17,7 +17,7 @@ I'm actively looking for **opportunities as a Data Scientist or Data Analyst** r
 
 ## Featured Projects
 
-### [Simulation of Statistical Models]([{{PROJECT_1_LINK}}](https://colab.research.google.com/drive/1CGs1hczsg2QqIol4dzB396dJRe-BwssY?usp=sharing#scrollTo=lG_7xFcvCUvF))
+### [Simulation of Statistical Models]([https://colab.research.google.com/drive/1CGs1hczsg2QqIol4dzB396dJRe-BwssY?usp=sharing#scrollTo=lG_7xFcvCUvF]
 •  Developed a Python model using NumPy and Matplotlib to analyze queue management   and resource utilization including performance analysis and visualization
 - **Tech:** Python, NumPy, Matplotlib
 
@@ -36,8 +36,8 @@ I'm actively looking for **opportunities as a Data Scientist or Data Analyst** r
 **B.Sc. Industrial Engineering & Management** -  Ben-Gurion University of the Negev (2022)
 
 ## Contact
-- **Email:** maya25342@gmail.com.
-- **LinkedIn:** [maya oren]([{{YOUR_LINKEDIN}}](https://www.linkedin.com/in/maya-oren-338475270/))    
+- **Email:** maya25342@gmail.com
+- **LinkedIn:** ([maya oren](https://www.linkedin.com/in/maya-oren-338475270/))    
 - **Portfolio:** [Coming Soon]({{YOUR_PORTFOLIO_LINK}})
 
 ---
