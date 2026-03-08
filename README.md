@@ -17,25 +17,28 @@ I'm actively looking for **opportunities as a Data Scientist or Data Analyst** r
 
 ## Featured Projects
 
-### [Simulation of Statistical Models]({{PROJECT_1_LINK}})
+### [Simulation of Statistical Models]([{{PROJECT_1_LINK}}](https://colab.research.google.com/drive/1CGs1hczsg2QqIol4dzB396dJRe-BwssY?usp=sharing#scrollTo=lG_7xFcvCUvF))
 •  Developed a Python model using NumPy and Matplotlib to analyze queue management   and resource utilization including performance analysis and visualization
 - **Tech:** Python, NumPy, Matplotlib
 
 ### [Information systems analysis project]({{PROJECT_2_LINK}})
-{{PROJECT_2_DESCRIPTION}}
-- **Tech:** {{PROJECT_2_TECH}}
+•  Conducted business process strong analysis skills using BPMN models, User Stories, and system requirement specifications.
+•  Identified process failures and proposed automated solutions to enhance supply chain and inventory management.
+•  Designed and documented system architecture, including Use Cases, diagrams, and CRUD models.
 
-### [{{PROJECT_3_NAME}}]({{PROJECT_3_LINK}})
-{{PROJECT_3_DESCRIPTION}}
-- **Tech:** {{PROJECT_3_TECH}}
+- **Tech:** BPMN, Python, SQL, Excel, PowerPoint, Use Case Diagram, Class Diagram, State Diagram
+
+### [Database project]({{PROJECT_3_LINK}})
+•  Developed and implemented a database system supporting the business process of custom bicycle design and purchase, including data requirements analysis, ERD modeling, relational schema design, SQL query development, and demonstration of data-driven business applications.
+- **Tech:** SQL, ERD
 
 ## Education
-**{{DEGREE}}** - {{UNIVERSITY}} ({{YEAR}})
+**B.Sc. Industrial Engineering & Management** -  Ben-Gurion University of the Negev (2022)
 
 ## Contact
-- **Email:** 
-- **LinkedIn:** [{{YOUR_NAME}}]({{YOUR_LINKEDIN}})    
-- **Portfolio:** [{{YOUR_PORTFOLIO}}]({{YOUR_PORTFOLIO_LINK}})
+- **Email:** maya25342@gmail.com.
+- **LinkedIn:** [maya oren]([{{YOUR_LINKEDIN}}](https://www.linkedin.com/in/maya-oren-338475270/))    
+- **Portfolio:** [Coming Soon]({{YOUR_PORTFOLIO_LINK}})
 
 ---
 
